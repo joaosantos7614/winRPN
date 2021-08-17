@@ -338,7 +338,6 @@ namespace winRPN
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(191, 326);
-            this.ControlBox = false;
             this.Controls.Add(this.btnEnter);
             this.Controls.Add(this.btnPlus);
             this.Controls.Add(this.btnMinus);
